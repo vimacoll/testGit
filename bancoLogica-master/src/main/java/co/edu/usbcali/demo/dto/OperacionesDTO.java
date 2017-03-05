@@ -7,6 +7,7 @@ public class OperacionesDTO {
 
 	/*
 	 * retiro o consignación
+	 * SE AJUSTA EL COMENTARIO TEMPORALMENTE
 	 */
 	private String tipoOperacion;
 	private long CodigoOperacion;
